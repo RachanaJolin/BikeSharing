@@ -1,0 +1,11 @@
+# NYC Citi Bike Analysis 
+This is a summary of the analytic work that I did with the NYC Citi Bike data. I appended this data with McDonalds locations in NY and McDonalds locations in Des Moines to prove that running
+a bike sharing business in Des Moines will be as succesful if not more than in NY. 
+## Smaller Title 
+Des Moines has a population spread that compares proportionally to the population spread in NY. Even though Des Moines population is less than NY, it's a growing community. There are more biking trails within the Des Moines area, and there is a growing tourism industry. The wholesome feel of Des Moines will encourage families to venture out more and avail of bike sharing. The spending power of the population in Des Moines is more than their counterparts in NY. The median household incomes of Des Moines in only 20k less than than of Ny, but cost of living is drastically less in Des Moines. This provides families more spending cash. The weather in Des Moines is also very suitable for an oudoor lifestyle. 
+https://www.census.gov/quickfacts/fact/table/NH,desmoinescityiowa/PST045219
+### Even Smaller Title
+I have generated a Tableay story that higlights the fact that McDonalds locations are directly related to people's movements. The spread of McDonald's locations in Des Moines is very similar to NY's. I have also corelated the McDonalds locations in NY to the originating bike rental points as per Citi Bike data. Bikes are mostly rented around the areas where the McDonald locations are.  This implies that the movement of people should be similar, and the foot traffic will be similar. Bike Sharing is more prevelant where there is more foot traffic. The ease of riding a bike in a city like Des Moines also suggest that a bike sharing business in Des Moines will be as sucessful, if not more, as a bike sharing business in NY. 
+[link to dashboard](https://public.tableau.com/profile/rachana.jolin#!/vizhome/Module14BikeSharing/Mod14ChallengeStory?publish=yes)
+
+More research should be conducted. Population demographic, gender breakdown, age of residents, and the influx of tourists should be better understood to make a more education decision. 
